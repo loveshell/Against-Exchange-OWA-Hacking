@@ -26,7 +26,7 @@ $t_4625_fw_Intranet = @(50, 1)
 # default block time, in seconds, which is 2 years
 $t_4625_fw_TimeoutDefault = 525600
 
-$Mail_From = "$($env:COMPUTERNAME)<ITInfraAlerts@didichuxing.com>"
+$Mail_From = "$($env:COMPUTERNAME)<ITInfraAlerts@larry.song>"
 $Mail_To = 'someoneA@larry.song', 'someoneB@larry.song'
 $Mail_Subject = 'IP attacking warning'
 
